@@ -2,14 +2,14 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi there, I'm Khalil Ahmed! 👋
+# Hi there, I'm Jawad Ahmed! 👋
 
 I'm a passionate Frontend Web Developer with 4 years of experience specializing in React.js and Next.js. I have a keen interest in web development, blockchain (Web3), and the latest technologies.
 
 - 🌱 **Currently Working On:** Next.js and React.js projects
 - 💬 **Ask me about:** Frontend development, React, Next.js, Web3
 - 🤝 **Open to:** Collaborating with other developers
-- 📫 **How to reach me:** [panhwarkhalilahmed@gmail.com](mailto:panhwarkhalilahmed@gmail.com)
+- 📫 **How to reach me:** [developerjawad63@gmail.com](mailto:developerjawad63@gmail.com)
 
 ## 🛠️ Skills
 
