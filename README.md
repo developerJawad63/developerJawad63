@@ -28,11 +28,5 @@ I'm a passionate Frontend Web Developer with 4 years of experience specializing 
 ![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalilahmed63&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilahmed63&layout=compact&theme=radical)
 --->
-## 🌐 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.khalilahmed.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil-ahmed-308a061a6)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/developerkhalil)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/khalilahmedpan5)
 
 
